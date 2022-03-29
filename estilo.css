@@ -21,6 +21,10 @@ header{
     display: flex;
 }
 
+header .linha{
+    display: flex;
+}
+
 .titulo{
     
     padding-left: 8px;
